@@ -1,0 +1,121 @@
+    header {
+        text-align: center;
+        background-color: red;
+        color: white;
+        font-size: 20px;
+        padding: 5px;
+
+    }
+
+    nav{
+        text-align: center;
+        background-color: red;
+        font-size: 20px;
+        padding: 8px 8px 8px 8px;
+    }
+
+    a{
+        color: white;
+        text-decoration: none;
+        padding: 15px;
+
+    }
+
+    div{
+        text-align: center;
+        background-color: white;
+        color: black;
+        font-size: 10px;
+        padding: 20px 20px 20px 20px;
+
+    }
+
+    body{
+        margin: 0%;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    #img-logo{
+        padding-right: 100px;
+    }
+
+    #titulo-principal{
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #promocao{
+        background-color: white;
+        color: black;
+        font-size: 15px;
+        text-align: center;
+    }
+
+    #mozzarela{
+        display: flex;
+        size: 50px;
+    }
+
+    #text-side{
+        margin: 7;
+    }
+
+    #wsd img{
+        padding: 100px;
+        
+    }
+
+    #developed{
+        text-align: center;
+        background-color: black;
+        color: white;
+
+    }
+
+    table{
+    border: 5px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 50%;
+    font-size: 20px;
+    }
+
+    th{
+        background-color: rgb(255, 81, 0);
+        color: white;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    tr:nth-child(even){
+        border-style: solid;
+        border-color: rgb(255, 81, 0);
+        border-width: 1px;
+    }
+
+    td{
+        border-bottom: 1px solid black;
+    }
+
+    #joao{
+        color: gold;
+    }
+
+    #duvidas-contato{
+        text-align: center;
+        color: black;
+    }
+
+    #segsab{
+        border: 5px solid black;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+        width: 50%;
+        font-size: 20px;
+    }   
+
+    #cardapio-div{
+        text-align: center;
+    }
